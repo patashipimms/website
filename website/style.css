@@ -44,10 +44,6 @@ p {
   width: 100px;
   height: 100px;
 }
-body {
-  background-image: url(images/chevron.png);
-  background-repeat: repeat;
-}
 .box p {
   font-size: 24px;
 }
@@ -55,21 +51,11 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
-
+}
 footer p {
   font-size: 13px;
-}
-  .banner {
-    height: 350px;
-    background-image: url(images/fashion.jpg);
-    background-size: cover;
-    background-position: center;
-  }
-  .box {
-  background-image: url(fashion.jpg);
-  background-size: 100%;
-}
 
+}
 a:link,
 a:focus,
 a:active  {
